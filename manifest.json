@@ -1,10 +1,10 @@
 {
-	"id": "obsidian-harrek",
-	"name": "Harrek Plugin",
-	"version": "0.0.1",
+	"id": "obsidian-harrex-citations",
+	"name": "Harrex's Citation Plugin",
+	"version": "1.0.0",
 	"minAppVersion": "0.12.0",
-	"description": "Harrek",
-	"author": "Obsidian",
+	"description": "Handles basic citations in the Harvard Australia format. Built for a Design & Technology",
+	"author": "Harrex Upston",
 	"authorUrl": "https://obsidian.md",
 	"isDesktopOnly": false
 }
