@@ -3,7 +3,7 @@
 	"name": "Harrex's Citation Plugin",
 	"version": "1.0.0",
 	"minAppVersion": "0.12.0",
-	"description": "Handles basic citations in the Harvard Australia format. Built for a Design & Technology",
+	"description": "Handles basic citations in the Harvard Australia format. Built for a Design & Technology project",
 	"author": "Harrex Upston",
 	"authorUrl": "https://obsidian.md",
 	"isDesktopOnly": false
