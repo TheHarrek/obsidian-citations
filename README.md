@@ -9,7 +9,7 @@ If you do not have Git set up, under the `code` option at the top of the page, s
 
 Open your obsidian vault as a folder in file explorer, navigate to .obsidian > plugins.
 
-Drag and drop the obsidian-citations-master folder into your plugins folder.
+Unzip the folder you downloaded (extract all), then drag and drop the obsidian-citations-master folder into your plugins folder.
 
 3. Enable the plugin
 
