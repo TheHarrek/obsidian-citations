@@ -23,5 +23,8 @@ After the plugin is enabled, a new option will be available in the command palet
 
 In the community plugins tab in settings, select the `*` button next to the plugin, and assign the hotkey to any combination of keys.
 
+## Install Video
+For more assistance, please see the video below, which contains an installation guide and use demonstration:
+
 https://youtu.be/5B5gh9kaz8k
 
