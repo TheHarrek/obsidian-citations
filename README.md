@@ -23,3 +23,12 @@ After the plugin is enabled, a new option will be available in the command palet
 
 In the community plugins tab in settings, select the `*` button next to the plugin, and assign the hotkey to any combination of keys.
  
+<html>
+<body>
+
+<iframe width="420" height="345" src="https://youtu.be/5B5gh9kaz8k">
+</iframe>
+
+</body>
+</html>
+
